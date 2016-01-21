@@ -14,4 +14,4 @@ Track editing is very rough, so is only visible in a debug build at the moment. 
 
 Automatically exported from code.google.com/p/scrace
 
-Since XNA is clearly dead at this point, I converted this to HTML5/Canvas: (scrace-web)[https://github.com/ponderousmad/scrace-web]
+Since XNA is clearly dead at this point, I converted this to HTML5/Canvas: https://github.com/ponderousmad/scrace-web
